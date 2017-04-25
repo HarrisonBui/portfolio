@@ -2568,8 +2568,8 @@
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
-							color: #483D8B !important;
+							background: #30253a;
+							color: #F8F8FF !important;
 						}
 
 					#header > nav ul li:first-child {
